@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it? 
+
+you cd into where you want to init it so that you can create a new
+repository with no initial commits
+you need to do it so that you can create a new project.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+its an in between so that you know what your doing when you make a commit
+
